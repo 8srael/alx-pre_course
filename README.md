@@ -1,4 +1,4 @@
 ## alx-pre_course repository
-__learning git command__
+learning git command
 
 - 0x01-git 
